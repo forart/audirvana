@@ -7,4 +7,4 @@ This is the last version of Audirvana under the GPL v3 licence. Please see http:
 All credit given to Damien Plisson au.damien78@gmail.com for this fantastic OSX music player.
 Download
 
-You can download Audirvana 0.9.5 here. 
+You can download Audirvana 0.9.5 from here: https://github.com/downloads/kronostar/audirvana-0_9_5/audirvana0.9.5.zip
